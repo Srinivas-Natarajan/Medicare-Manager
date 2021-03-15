@@ -9,7 +9,7 @@ In the modern medical world, doctors are aided by a wide variety of tools, machi
 ![Dashboard](https://github.com/Srinivas-Natarajan/Medicare-Manager/blob/main/Screenshots/Dashboard.png?raw=true)
 
 ## 2. Login Module
-![Login](https://github.com/Srinivas-Natarajan/Medicare-Manager/blob/main/Screenshots/Login page.png?raw=true)
+![Login](https://github.com/Srinivas-Natarajan/Medicare-Manager/blob/main/Screenshots/Login_page.png?raw=true)
 
 ## 3. Patients Module
 ![Patients](https://github.com/Srinivas-Natarajan/Medicare-Manager/blob/main/Screenshots/Add Patient.png?raw=true)
