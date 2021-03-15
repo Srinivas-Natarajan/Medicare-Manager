@@ -9,19 +9,19 @@ In the modern medical world, doctors are aided by a wide variety of tools, machi
 ![Dashboard](https://github.com/Srinivas-Natarajan/Medicare-Manager/blob/main/Screenshots/Dashboard.png?raw=true)
 
 ## 2. Login Module
-![Login](https://github.com/Srinivas-Natarajan/Medicare-Manager/blob/main/Screenshots/Login_page.png?raw=true)
+![Login](https://github.com/Srinivas-Natarajan/Medicare-Manager/blob/main/Screenshots/Login_Page.png?raw=true)
 
 ## 3. Patients Module
-![Patients](https://github.com/Srinivas-Natarajan/Medicare-Manager/blob/main/Screenshots/Add Patient.png?raw=true)
+![Patients](https://github.com/Srinivas-Natarajan/Medicare-Manager/blob/main/Screenshots/Add_Patient.png?raw=true)
 
 ## 4. Settings Module
 ![Settings](https://github.com/Srinivas-Natarajan/Medicare-Manager/blob/main/Screenshots/Settings.png?raw=true)
 
 ## Relevant Diagrams <br/>
 ### 1. Activity Diagram
-![Activity](https://github.com/Srinivas-Natarajan/Medicare-Manager/blob/main/Screenshots/Activity Diagram.png?raw=true)
+![Activity](https://github.com/Srinivas-Natarajan/Medicare-Manager/blob/main/Screenshots/Activity_Diagram.png?raw=true)
 
 ### 2. Use case Diagram
-![Use Case](https://github.com/Srinivas-Natarajan/Medicare-Manager/blob/main/Screenshots/Use Case.png?raw=true)
+![Use Case](https://github.com/Srinivas-Natarajan/Medicare-Manager/blob/main/Screenshots/Use_Case.png?raw=true)
 
 
